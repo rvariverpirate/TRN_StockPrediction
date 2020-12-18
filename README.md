@@ -13,3 +13,7 @@ The TrainModel method in RunAll.py allows a model to be run on a given data set 
 Finally, the VizHelp class was created to assist with the visualization of the results and provides two generic methods allowing the Training Error vs Epoch to be easily plotted as well as the predicted values.
 
 This software implementation is written entirely in Python 3.7, has dependencies on the following software libraries. Pytorch, Numpy, Pandas, Matplotlib, Seaborn, and SciKit-Learn.
+
+
+![alt text](https://raw.githubusercontent.com/rvariverpirate/TRN_StockPrediction/master/images/Test_AMZN_D4_E50.png "Test Example 1")
+![alt text](https://raw.githubusercontent.com/rvariverpirate/TRN_StockPrediction/master/images/Test_IBM_D3_E50.png "Test Example 2")
